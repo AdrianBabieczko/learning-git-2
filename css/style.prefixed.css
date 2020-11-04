@@ -3,5 +3,6 @@ h1 {
     color: tomato;
     margin: auto;
     text-align: center;
+    display: -ms-flexbox;
     display: flex;
 }
