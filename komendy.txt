@@ -1,3 +1,3 @@
-npx autoprefixer-cli -o style.prefixed.css style.css
+npx autoprefixer-cli -o css/style.prefixed.css css/style.css
 
 npx html-validate *.html 
